@@ -1,3 +1,3 @@
-description 'GTA V Blips'
+description 'Anti Weapon Whipping'
 
-client_script 'blips.lua'
+client_script 'client.lua'
